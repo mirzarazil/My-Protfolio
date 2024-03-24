@@ -216,23 +216,5 @@ ul li a:hover {
   .action__btns {
     margin: auto;
   }
-  .social{
-    position: absolute;
-    top: 44%;
-    right: 50px;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-}
-
-.social i{
-    font-size: 30px;
-    margin: 20px 0px;
-    cursor: pointer;
-}
-
-.social i:hover{
-    transform: scale(1.2);
-}
 
 }
